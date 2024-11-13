@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4XX+VGIS0o=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Çala\\Desktop\\okul\\Opsiyo2elProject\\opsiyonel2.0\\opsiyonel2.0\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Çala\\Desktop\\okul\\Opsiyo2elProject\\opsiyonel2.0\\opsiyonel2.0\\EntityLayer\\EntityLayer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Çala\\Desktop\\okul\\Opsiyo2elProject\\opsiyonel2.0\\opsiyonel2.0\\EntityLayer\\EntityLayer.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Çala\\Desktop\\okul\\Opsiyo2elProject\\opsiyonel2.0\\opsiyonel2.0\\DataAccessLayer\\DataAccessLayer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Çala\\Desktop\\okul\\Opsiyo2elProject\\opsiyonel2.0\\opsiyonel2.0\\DataAccessLayer\\DataAccessLayer.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
